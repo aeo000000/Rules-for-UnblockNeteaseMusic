@@ -23,9 +23,9 @@ proxies:
     type: http
     server: 47.98.177.0
     port: 5005
-    # username: username
-    # password: password
-    # tls: true # https
+    username: ""
+    password: ""
+    tls: false
     # skip-cert-verify: true
     # sni: custom.com
   - name: NeteaseMusic1
