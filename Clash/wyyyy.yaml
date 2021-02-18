@@ -1,10 +1,10 @@
 #             只是添加了几个服务，原作者的没变，还可以更新订阅。添加的地址来自网络。
-# URL:     订阅 https://cdn.jsdelivr.net/gh/aeo000000/Rules-for-UnblockNeteaseMusic/Clash/wyy0.yaml
+# URL:     订阅 https://cdn.jsdelivr.net/gh/aeo000000/Rules-for-UnblockNeteaseMusic/Clash/wyyyy.yaml
 # Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic  原作者
 #             订阅原作者 https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/Clash/UnblockNeteaseMusic.yaml
 # Note:    This proxy is for free, please complain the seller if you were charged
 #              禁止买卖
-#              桌面：都可以，安卓：NeteaseMusic1,NeteaseMusic2，🎶 解锁（原作者）可用
+#              桌面：都可以，安卓：NeteaseMusic1,NeteaseMusic2，🎶 解锁（原作者），NeteaseMusic5 可用
 
 mixed-port: 7890
 allow-lan: false
@@ -33,7 +33,7 @@ proxies:
     # skip-cert-verify: true
     # sni: custom.com
 
-# https://bbs.pediy.com/thread-259790.htm
+# https://bbs.pediy.com/thread-259790.htm 快
   - name: NeteaseMusic5
     type: http
     server: xbmmw.xyz
@@ -61,7 +61,7 @@ proxies:
     password: ""
     tls: false
 
-# https://desperadoj.com/16.html
+# https://desperadoj.com/16.html 原帖
 proxy-providers:
   NeteaseMusic:
     type: http
