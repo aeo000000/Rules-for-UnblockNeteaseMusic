@@ -4,7 +4,7 @@
 #             订阅原作者 https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/Clash/UnblockNeteaseMusic.yaml
 # Note:    This proxy is for free, please complain the seller if you were charged
 #              禁止买卖
-#              桌面：都可以，安卓：NeteaseMusic1,NeteaseMusic2，🎶 解锁（原作者）可用
+
 
 mixed-port: 7890
 allow-lan: false
@@ -53,7 +53,7 @@ proxies:
     password: ""
     tls: false
       
-#    ios ？
+#    ios ？ 不能用
   - name: NeteaseMusic3
     type: ss
     server: music.desperadoj.com
